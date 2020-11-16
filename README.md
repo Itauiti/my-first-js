@@ -18,6 +18,6 @@ ES6, OOP, CSS3, HTML5, BEM
 
 ## Ссылка на github pages:
 Подгрузка данных с сервера может занять несколько секунд.
-https://itauiti.github.io/webpack-project/
+https://itauiti.github.io/my-first-js/
 
 
