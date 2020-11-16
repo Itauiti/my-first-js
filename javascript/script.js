@@ -32,22 +32,22 @@
     }
 
     const cardApiData = {
-        url: 'https://praktikum.tk/cohort11/cards',
+        url: 'https://nomoreparties.co/cohort11/cards',
         headers: headersForPraktikum,
     };
 
     const userInfoApiData = {
-        url: 'https://praktikum.tk/cohort11/users/me',
+        url: 'https://nomoreparties.co/cohort11/users/me',
         headers: headersForPraktikum,
     };
 
     const cardLikeApi = {
-        url: 'https://praktikum.tk/cohort11/cards/like',
+        url: 'https://nomoreparties.co/cohort11/cards/like',
         headers: headersForPraktikum,
     };
 
     const avatarApiData = {
-        url: 'https://praktikum.tk/cohort11/users/me/avatar',
+        url: 'https://nomoreparties.co/cohort11/users/me/avatar',
         headers: headersForPraktikum,
     };
 
